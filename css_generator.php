@@ -8,6 +8,8 @@ $padding = null;
 $override_size = null;
 $columns_number = null;
 $folder = '';
+
+
 function cmd($argv)
 {
     global $recursivity, $output_image, $output_style, $padding, $override_size, $columns_number, $folder;
